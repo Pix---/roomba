@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "settings": {
+    "roombaIP": "192.168.178.42",
+    "firstId": 77100,
+    "period": "2",
+    "debugEnabled": false
+  }
+}
